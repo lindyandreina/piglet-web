@@ -1,3 +1,15 @@
 body {
-     background-color= red; 
+    background-color: #C5E285
+}
+p {
+    color: #66ADA2
+}
+a {
+    color: #F5F791
+}
+a:hover {
+    color: #FFEBCD	
+}
+li {
+    color: #F0FFFF	
 }
