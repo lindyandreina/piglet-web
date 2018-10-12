@@ -18,3 +18,8 @@ h1 {
     text-shadow: 1px 1px 10px Navajo White;
     font-size: 3vw;
 }
+.example {
+		font-family: 'Fredericka the Great', cursive;
+		font-size: 7vw;
+}
+<p class="example">food and drink instagramable.</p>
