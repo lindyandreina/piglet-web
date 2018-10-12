@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
 body {
-    background-color: #C5E285
+    background-color: #C5E285;
 }
 p {
-    color: #66ADA2
+    color: #66ADA2;
 }
 a {
-    color: #4169E1
+    color: #4169E1;
 }
 a:hover {
-    color: #FFC0CB	
+    color: #FFC0CB;	
 }
 li {
-    color: #000080
+    color: #000080;
 }
 h1 {
     color: Maroon;
@@ -21,7 +21,7 @@ h1 {
 }
 
 
-p {
+h2 {
    font-family: 'Sacramento', cursive;
 }
 	
