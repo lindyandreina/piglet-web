@@ -25,3 +25,11 @@ p {
    font-family: 'Sacramento', cursive;
 }
 	
+.example {
+		text-align: right;
+		font-size: 4vw;
+		padding: 2vw;
+		width: 40vw;
+		border: solid;
+	}
+<p class="example">Someone's sitting in the shade today because someone planted a tree a long time ago.</p>
