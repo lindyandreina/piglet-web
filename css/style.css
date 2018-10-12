@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
 body {
     background-color: #C5E285
 }
@@ -21,7 +21,7 @@ h1 {
 }
 
 
-h2 {
-    font-family: 'Josefin Slab', serif;
+p {
+   font-family: 'Sacramento', cursive;
 }
 	
