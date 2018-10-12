@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
 body {
     background-color: #C5E285
 }
@@ -18,8 +19,9 @@ h1 {
     text-shadow: 1px 1px 10px Navajo White;
     font-size: 3vw;
 }
-.example {
-		font-family: 'Fredericka the Great', cursive;
-		font-size: 7vw;
+
+
+h2 {
+    font-family: 'Josefin Slab', serif;
 }
-<h2 class="example">food and drink instagramable.</h2>
+	
