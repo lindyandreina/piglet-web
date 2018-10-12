@@ -13,3 +13,8 @@ a:hover {
 li {
     color: #000080
 }
+p {
+		color: black;
+		text-shadow: 1px 1px 10px black;
+		font-size: 8vw;
+	}
