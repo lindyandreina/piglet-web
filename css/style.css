@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
+
 body {
-    background-color: #FFC0CB;
+    background-color: pink;
 }
 p {
     color: #66ADA2;
@@ -26,5 +27,5 @@ h2 {
 }
 
 div {
-    background-color: #A9A9A9; 
+    background-color: aqua; 
 }
