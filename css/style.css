@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
-body {
-    background-color: #C5E285;
+body {body {
+    background-color: #F0FFFF;
 }
 p {
     color: #66ADA2;
@@ -25,3 +25,6 @@ h2 {
    font-family: 'Sacramento', cursive;
 }
 
+div {
+    background-color: #A9A9A9; 
+}
