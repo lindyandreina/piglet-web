@@ -53,7 +53,7 @@ p {
 	height:50px;
 	text-align: center;
 }
-.sidebar-left{
+.sidebar1{
 	float:left;
 	width:15%;
 	background-color: #FFE4C4;
@@ -63,7 +63,7 @@ p {
 	width:70%;
 	background-color: #6495ED;
 }
-.sidebar-right{
+.sidebar2{
 	float:right;
 	width:15%;
 	background-color: #7FFF00;
@@ -75,7 +75,5 @@ p {
 	text-align: center;
 	background-color: #8FBC8F;
 }
-.sidebar-left, .main, .sidebar-right{
-		min-height: 600px				
-}
+
 
