@@ -55,7 +55,7 @@ p {
 }
 .sidebar1{
 	float:left;
-	width:15%;
+	width:50px;
 	background-color: #FFE4C4;
 }
 .main{
@@ -65,7 +65,7 @@ p {
 }
 .sidebar2{
 	float:right;
-	width:15%;
+	width:50px;
 	background-color: #7FFF00;
 }
 .footer{
