@@ -47,33 +47,36 @@ p {
    font-family: 'Comic Sans MS', cursive;
 }
 
-.header{
-	background-color: #FF1493;
-	width:100%;
-	height:50px;
-	text-align: center;
+.header {
+ background-color: aqua;
+ width: 100%;
+ height: 100px
 }
-.sidebar1{
-	float:left;
-	width:180px;
-	background-color: #FFE4C4;
+
+.main {
+ width: 100%;
+ height: 200px;
 }
-.main{
-	float:center;
-	width:70%;
-	background-color: #6495ED;
+
+.content {
+ width: 69%;
+ float: left;
+ height: 100px;
+ border: 1px solid black;
 }
-.sidebar2{
-	float:right;
-	width:200px;
-	background-color: #7FFF00;
+
+.sidebar {
+ width: 26%;
+ float: right;
+ height: 100px;
+ border: 1px solid red;
+ padding-left: 20px;
 }
-.footer{
-	clear:both;
-	height: 50px;
-	width: 100%;
-	text-align: center;
-	background-color: #8FBC8F;
+
+.footer {
+ background-color: silver;
+ width: 100%;
+ height: 100%;
 }
 
 
