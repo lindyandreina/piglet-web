@@ -48,7 +48,7 @@ p {
 }
 
 .header {
- background-color: aqua;
+ background-color: #FF7F50;
  width: 100%;
  height: 100px
 }
@@ -62,19 +62,19 @@ p {
  width: 69%;
  float: left;
  height: 100px;
- border: 1px solid black;
+ border: 1px solid #A9A9A9;
 }
 
 .sidebar {
  width: 26%;
  float: right;
  height: 100px;
- border: 1px solid red;
+ border: 1px solid #E9967A;
  padding-left: 20px;
 }
 
 .footer {
- background-color: silver;
+ background-color: #CD5C5C;
  width: 100%;
  height: 100%;
 }
