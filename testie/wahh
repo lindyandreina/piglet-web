@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>andreina-index</title>
+    <link href="css/testie.css" rel="stylesheet">
+  </head>
+  <body background="https://raw.githubusercontent.com/lindyandreina/lindyandreina.github.io/master/image/0002793_2230-1_550.jpeg">
+    
+       <b><a href="index.html" title="Home">Home<font face="Rockwell" size"18"></font></a></b> 
+       <b><a href="about.html" title="About">About<font face="Rockwell" size"18"></font></a></b>
+       <b><a href="gallery.html" title="Gallery">Gallery<font face="Rockwell" size"18"></font></a></b>
+       <b><a href="contact.html" title="Contact">Contact<font face="Rockwell" size"18"></font></a></b>
+       
+ <div class="side">
+         <div class="kk1">
+           <h3><a href="https://anakjajan.com/2018/10/24/pancious-new-menu/">PANCIOUS-NEW MENU</a></h3>
+                   <p>Jenis burger yang awalnya muncul di Jepang ini biasa disebut kuro burger. Warna hitam pada bun  berasal dari arang bambu yang dicampurkan dalam adonan. Jenis burger yang semakin populer ini membuat restoran dan kafe menambahkan varian ini pada menunya. Bahkan, sebuah restoran cepat saji di Jepang menciptakan keju warna hitam untuk edisi Halloween. </p>
+                   <img src="https://raw.githubusercontent.com/lindyandreina/lindyandreina.github.io/master/image/1.jpg" width="200" high="500">
+         </div>   
+         <div class="kk2">
+               <h3><a href="https://anakjajan.com/2018/10/24/pancious-new-menu/">Doughnut milkshake</a></h3>
+                   <p>Donat atau milkshake? Gak perlu memilih salah satu, donat atau milshake, karena kamu bisa dapat dua-duanya. OMG, gimme more sugar!</p>
+                   <img src="https://raw.githubusercontent.com/lindyandreina/lindyandreina.github.io/master/image/2.jpg" width="200" high="500">
+         </div>
+         <div class="kk3">
+               <h3><a href="https://anakjajan.com/2018/10/24/pancious-new-menu/"> Tower ice cream</a></h3>
+                   <p>Donat atau milkshake? Gak perlu memilih salah satu, donat atau milshake, karena kamu bisa dapat dua-duanya. OMG, gimme more sugar!</p>
+                   <img src="https://raw.githubusercontent.com/lindyandreina/lindyandreina.github.io/master/image/3.jpg" width="200" high="500">
+        </div>
+        <div class="kk4">
+               <h3><a href="https://anakjajan.com/2018/10/24/pancious-new-menu/">Animal pao</a></h3>
+                   <p>Roti kukus ini berasal dari Tiongkok yang bentuknya sudah dikreasi menjadi lebih menarik. Berbagai warna cerah ditambahkan pada campuran adonan sehingga bakpao terlihat lebih lucu. Ihhhh, jadi gak tega mau makan.</p>
+                   <img src="https://raw.githubusercontent.com/lindyandreina/lindyandreina.github.io/master/image/4.jpg" width="200" high="500">
+        </div>
+        </div>
+         <div class="kk5">
+               <h3><a href="https://anakjajan.com/2018/10/24/pancious-new-menu/"> Tower ice cream</a></h3>
+                   <p>Donat atau milkshake? Gak perlu memilih salah satu, donat atau milshake, karena kamu bisa dapat dua-duanya. OMG, gimme more sugar!</p>
+                   <img src="https://raw.githubusercontent.com/lindyandreina/lindyandreina.github.io/master/image/3.jpg" width="200" high="500">
+        </div>
+        <div class="kk6">
+               <h3><a href="https://anakjajan.com/2018/10/24/pancious-new-menu/">Animal pao</a></h3>
+                   <p>Roti kukus ini berasal dari Tiongkok yang bentuknya sudah dikreasi menjadi lebih menarik. Berbagai warna cerah ditambahkan pada campuran adonan sehingga bakpao terlihat lebih lucu. Ihhhh, jadi gak tega mau makan.</p>
+                   <img src="https://raw.githubusercontent.com/lindyandreina/lindyandreina.github.io/master/image/4.jpg" width="200" high="500">
+        </div>
+    </div>
 
+
+   
