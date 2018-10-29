@@ -3,6 +3,11 @@
 body {
     background-color: pink;
 }
+
+nav {
+ text-align: center;
+}
+
 p {
     color: #66ADA2;
 }
@@ -101,8 +106,6 @@ p {
  float: left;
 }
 
-.header {
- text-align: center;
-}
+
 
 
