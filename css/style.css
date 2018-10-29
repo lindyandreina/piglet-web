@@ -56,14 +56,14 @@ p {
 
 .kk1 {
  background-color: #FFE4E1;
- width: 50%;
+ width: 35%;
  height: 450px;
  text-align: center;
  float: left;
 }
 
 .kk2 {
- width: 50%;
+ width: 30%;
  float: left;
  height: 450px;
  background-color: #E9967A;
@@ -71,7 +71,7 @@ p {
 }
 
 .kk3 {
- width: 50%;
+ width: 35%;
  float: left;
  height: 450px;
  background-color: #F08080;
@@ -80,7 +80,22 @@ p {
 
 .kk4 {
  background-color: #FFEFD5;
- width: 50%;
+ width: 35%;
+ height: 450px;
+ text-align: center;
+ float: left;
+}
+.kk5 {
+ width: 30%;
+ float: left;
+ height: 450px;
+ background-color: #DC143C;
+ text-align: center;
+}
+
+.kk6 {
+ background-color: #E9967A;
+ width: 35%;
  height: 450px;
  text-align: center;
  float: left;
