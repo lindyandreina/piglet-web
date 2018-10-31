@@ -3,7 +3,9 @@
 body {
     background-color: pink;
 }
-
+title {
+    color: pink;
+}
 nav {
  text-align: center;
  background-color: #B0E0E6;
