@@ -3,6 +3,7 @@
 body {
     background-color: pink;
 }
+
 title {
     color: pink;
 }
@@ -17,6 +18,9 @@ text-align: center;
 
 p {
     color: #66ADA2;
+}
+.oy {
+    color: #E6E6FA;
 }
 .uy {
     color: #E6E6FA;
