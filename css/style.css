@@ -11,7 +11,9 @@ nav {
  text-align: center;
  background-color: #B0E0E6;
 }
-
+.di {
+    color: #66CDAA;
+}
 form {
 text-align: center;
 }
