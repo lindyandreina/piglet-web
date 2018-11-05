@@ -20,8 +20,9 @@ text-align: center;
 
 footer {
  text-align: right;
- text-shadow: 1px 1px 10px Navajo White;
+ background-color: #B0E0E6; 
 }
+
 p {
     color: #66ADA2;
 }
@@ -94,7 +95,7 @@ p {
  width: 30%;
  float: left;
  height: 450px;
- background-color: #E9967A;
+ background-color: #EEE8AA;
  text-align: center;
 }
 
@@ -102,7 +103,7 @@ p {
  width: 35%;
  float: left;
  height: 450px;
- background-color: #F08080;
+ background-color: #FFE4E1;
  text-align: center;
 }
 
@@ -122,7 +123,7 @@ p {
 }
 
 .kk6 {
- background-color: #EEE8AA;
+ background-color: #FFEFD5;
  width: 35%;
  height: 450px;
  text-align: center;
