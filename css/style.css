@@ -40,16 +40,18 @@ a:hover {
 li {
     color: #000080;
 }
-
-h1,h2,h4,h5 {
-    text-align: center;
-    color: #837799;
-    font-family: 'Comic Sans MS', cursive;
- }
-
 h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 26px;
+     text-align: center;
+    color: #837799;
+    text-shadow: 1px 1px 10px Navajo White;
+    font-size: 3vw;
+    font-family: 'Comic Sans MS', cursive;
+}
+ h2 {
+   font-family: 'Sacramento', cursive;
+}
+
+
 div {
     background-color: #ADD8E6; 
 }
