@@ -129,6 +129,60 @@ p {
  text-align: center;
  float: left;
 }
+.side {
+ background-color: #c0c8ff;
+ width: 100%;
+ height: 900px
+ 
+}
+
+.ss1 {
+ background-color: #FFE4E1;
+ width: 50%;
+ height: 450px;
+ text-align: center;
+ float: left;
+}
+
+.ss2 {
+ width: 50%;
+ float: left;
+ height: 450px;
+ background-color: #EEE8AA;
+ text-align: center;
+}
+
+.ss3 {
+ width: 50%;
+ float: left;
+ height: 450px;
+ background-color: #FFE4E1;
+ text-align: center;
+}
+
+.ss4 {
+ background-color: #FFEFD5;
+ width: 50%;
+ height: 450px;
+ text-align: center;
+ float: left;
+}
+.ss5 {
+ width: 50%;
+ float: left;
+ height: 450px;
+ background-color: #FFB6C1;
+ text-align: center;
+}
+
+.ss6 {
+ background-color: #FFEFD5;
+ width: 50%;
+ height: 450px;
+ text-align: center;
+ float: left;
+}
+
 
 
 
