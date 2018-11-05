@@ -11,6 +11,9 @@ nav {
  text-align: center;
  background-color: #B0E0E6;
 }
+nav a {
+ font-size: 20px;
+}
 .di {
     color: #A0522D;
 }
